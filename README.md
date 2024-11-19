@@ -1,0 +1,1 @@
+This project is made with vanila js ,html and css.This To-do App has some useful features like a user can add tasks , can sort it with the help of drag and drop also  can delete, edit and clear  day-to-day tasks.
